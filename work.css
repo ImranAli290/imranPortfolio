@@ -1,0 +1,51 @@
+.richest{
+   
+    height: auto;
+    display: flex;
+    flex-wrap: wrap;
+    border-radius: 15px;
+    background-color: rgba(213, 230, 230, 0.626);
+    
+}
+.rich{
+    width: 250px;
+    margin-left: 40px;
+    margin-right: 10px;
+    height: auto;
+    margin-top: 10px;
+    border-radius: 5px;
+    background-color: aquamarine;
+
+}
+.ric{
+    text-align: center;
+    height: 150px;
+    color: white;
+    border-radius: 10px 10px 0 10px;
+    background-color: black;
+}
+.round{
+    border-radius: 50%;
+    margin:10px; 
+    height: 130px;
+    width: 130px;
+}
+.rich a{
+    text-decoration: none;
+    align-items: center;
+
+}
+.btn{
+    text-decoration: none;
+    text-align: center;
+    background-color: blue;
+}
+.semes{
+    text-align: center;
+    font-size: large;
+    font: bold;
+    height: 35px;
+    align-items: center;
+    margin-top: 15px;
+    background-color: bisque;
+}
