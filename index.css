@@ -130,7 +130,7 @@ body{
     background-color: rgb(23, 22, 22);
     border-radius: 10px;
 }
-@media (max-width: 400px){
+@media (max-width: 300px){
     .toogle-btn{
         display: flex;
     }
